@@ -1,0 +1,50 @@
+{C:/Users/Diego/Desktop/Practica IC3. Diego Diaz. Junio 2016/Ejercicio2. Codif_p8a3/logic_and.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Diego/Desktop/Practica IC3. Diego Diaz. Junio 2016/Ejercicio2. Codif_p8a3/logic_and.vhd}
+Model Technology ModelSim ALTERA vcom 10.4b Compiler 2015.05 May 27 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity and2
+-- Compiling architecture and2 of and2
+
+} {} {}} {C:/Users/Diego/Desktop/Practica IC3. Diego Diaz. Junio 2016/Ejercicio2. Codif_p8a3/codif_8a3.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Diego/Desktop/Practica IC3. Diego Diaz. Junio 2016/Ejercicio2. Codif_p8a3/codif_8a3.vhd}
+Model Technology ModelSim ALTERA vcom 10.4b Compiler 2015.05 May 27 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity codif_P8a3
+-- Compiling architecture codif_P8a3 of codif_P8a3
+
+} {} {}} {C:/Users/Diego/Desktop/Practica IC3. Diego Diaz. Junio 2016/Ejercicio2. Codif_p8a3/bp_codif_8a3.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Diego/Desktop/Practica IC3. Diego Diaz. Junio 2016/Ejercicio2. Codif_p8a3/bp_codif_8a3.vhd}
+Model Technology ModelSim ALTERA vcom 10.4b Compiler 2015.05 May 27 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity bp_codif_P8a3
+-- Compiling architecture bp_codif_P8a3 of bp_codif_P8a3
+
+} {} {}} {C:/Users/Diego/Desktop/Practica IC3. Diego Diaz. Junio 2016/Ejercicio2. Codif_p8a3/logic_or.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Diego/Desktop/Practica IC3. Diego Diaz. Junio 2016/Ejercicio2. Codif_p8a3/logic_or.vhd}
+Model Technology ModelSim ALTERA vcom 10.4b Compiler 2015.05 May 27 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity or2
+-- Compiling architecture or2 of or2
+
+} {} {}} {C:/Users/Diego/Desktop/Practica IC3. Diego Diaz. Junio 2016/Ejercicio2. Codif_p8a3/logic_not.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Diego/Desktop/Practica IC3. Diego Diaz. Junio 2016/Ejercicio2. Codif_p8a3/logic_not.vhd}
+Model Technology ModelSim ALTERA vcom 10.4b Compiler 2015.05 May 27 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity not1
+-- Compiling architecture not1 of not1
+
+} {} {}} {C:/Users/Diego/Desktop/Practica IC3. Diego Diaz. Junio 2016/Ejercicio2. Codif_p8a3/codif_4a2.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Diego/Desktop/Practica IC3. Diego Diaz. Junio 2016/Ejercicio2. Codif_p8a3/codif_4a2.vhd}
+Model Technology ModelSim ALTERA vcom 10.4b Compiler 2015.05 May 27 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity codif_P4a2
+-- Compiling architecture codif_P4a2 of codif_P4a2
+
+} {} {}}
